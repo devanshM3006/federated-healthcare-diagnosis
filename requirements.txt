@@ -1,0 +1,6 @@
+flwr==1.31.0
+torch
+numpy
+pandas
+matplotlib
+scikit-learn

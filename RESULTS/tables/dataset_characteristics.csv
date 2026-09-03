@@ -1,0 +1,5 @@
+Disease,Samples,Features,Classes,Source dataset
+CKD,400,24,2,ckd.csv
+Diabetes,768,8,2,diabetes.csv
+Heart Disease,303,13,2,heart.csv
+Breast Cancer,569,30,2,breast_cancer.csv
