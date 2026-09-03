@@ -1,5 +1,5 @@
 ````markdown
-# Federated Healthcare Diagnosis System
+# FEDERATED HEALTHCARE DIAGNOSIS SYSTEM
 
 > **A unified Federated Learning and healthcare analytics platform for multi-disease prediction using PyTorch, Flower, and FastAPI.**
 
@@ -807,5 +807,4 @@ See [`LICENSE`](LICENSE) for details.
 ### **Current Demonstration**
 4 disease tasks · 2 simulated clients · 10 federated rounds · disease-specific neural networks · automated evaluation and visualization
 
-```
-```
+
